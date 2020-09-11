@@ -1,2 +1,3 @@
-for i in range(5):
-  print('A number:', i)
+print('Muggle madness starting soon.')
+import os
+os.system('muggle_madness.py')
