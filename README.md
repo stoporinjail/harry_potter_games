@@ -10,4 +10,4 @@ This is not currently needed, but will be needed in future when I do the API gam
 
 # Run the main.py file:
 ```python main.py```
-You may reach me on my Discord: s
+You may reach me on my Discord: [Harry Potter Games server](https://discord.gg/BdpNrDa)
