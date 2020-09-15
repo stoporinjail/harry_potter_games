@@ -2,7 +2,7 @@ import sys
 import time
 import webbrowser
 import os
-
+# Assign wizard and muggle points
 wizard = 0
 muggle = 0
 
@@ -12,7 +12,9 @@ if name == "Voldemort" or name == "Lord Voldemort":
     sys.exit("You're not allowed to do this quiz.")
 music = input(f'{name.title()}, would you like to hear some Harry Potter music while you do this? y/n')
 if music == 'y':
+  
   webbrowser.open_new('https://www.youtube.com/watch?v=CvxK5pgQSIc')
+  # Sometimes it does not get opened in a new tab, like when you use repl.it
   see = input(f'{name.title()}, a new tab has been opened. Do you see it? y/n')
   if see == 'y':
     print('Great!')

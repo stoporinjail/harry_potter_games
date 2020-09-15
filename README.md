@@ -8,11 +8,6 @@ git clone https://github.com/stoporinjail/harry_potter_games.py
 or [download the Github Desktop app](https://desktop.github.com/) and do Ctrl+Shift+O
 # Install Python:
 - [Python](https://www.python.org/downloads/) (3.7)
-# Install pip:
-```
-pip install requests --user
-```
-
 
 # Run the launcher file:
 ```
