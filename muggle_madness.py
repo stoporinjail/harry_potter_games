@@ -61,11 +61,11 @@ else:
 if muggle > wizard:
  print("You have been tested, and found to be a Muggle!")
  print("Since you are a muggle, you can not continue.")
- sys.exit[0]
+ sys.exit(0)
 elif muggle == wizard:
  print("The score is equal, and you are a squib!")
  print("You are not a wizard, but you have wizard parents. You do not belong in Hogwarts, so you cannot do the sorting.")
- sys.exit[0]
+ sys.exit(0)
 elif wizard > muggle:
  print("We checked and it seems you are a wizard")
  print("Now it is time for the sorting.")

@@ -12,7 +12,7 @@ if age != "11":
             sys.exit('Out of school, not attending Hogwarts.')
     elif age < "11":
         print(f"You are too young, {name.title()}. Come back when you are 11 years old.")
-        sys.exit['Too young.']
+        sys.exit(0)
 Gryffindor, Hufflepuff, Slytherin, Ravenclaw = 0, 0, 0, 0
 Q1 = input (F' {name.title()}, there are four houses. [R]avenclaw, [H]ufflepuff, [G]ryffindor, and [S]lytherin. Which of these do you like? ')
 if Q1 == "R":
