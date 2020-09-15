@@ -69,4 +69,4 @@ elif muggle == wizard:
 elif wizard > muggle:
  print("We checked and it seems you are a wizard")
  print("Now it is time for the sorting.")
- os.system('hoot.py')
+ os.system('python sorting.py')
