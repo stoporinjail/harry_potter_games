@@ -14,3 +14,4 @@ or [download the Github Desktop app](https://desktop.github.com/) and do Ctrl+Sh
 python launcher.py
 ```
 You may reach me on my Discord: [Harry Potter Games server](https://discord.gg/BdpNrDa)
+[![Run on Repl.it](https://repl.it/badge/github/stoporinjail/harry_potter_games)](https://repl.it/github/stoporinjail/harry_potter_games)
