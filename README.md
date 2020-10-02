@@ -13,6 +13,6 @@ This also supports [Replit](repl.it), use this badge to fork the repl:
 
 # Run the launcher file:
 ```
-python launcher.py
+$ python launcher.py
 ```
 You may reach me on my Discord: [Harry Potter Games server](https://discord.gg/BdpNrDa)
