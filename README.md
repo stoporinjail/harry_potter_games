@@ -1,15 +1,20 @@
-Hi welcome to the Harry Potter games.
+# Harry Potter Games
+
+---
+Hi, welcome to the Harry Potter games.
+# Requirements to run:
+[Python](python.org) (3.7 or later)
+[Git](https://git-scm.com/downloads)
 
 How to run:
 # Clone this repo
 ```
-$ git clone https://github.com/stoporinjail/harry_potter_games.py
+$ git clone https://github.com/stoporinjail/harry_potter_games
 ```
-or [download the Github Desktop app](https://desktop.github.com/) and do Ctrl+Shift+O.
-This also supports [Replit](repl.it), use this badge to fork the repl:
- [![Run on Repl.it](https://repl.it/badge/github/stoporinjail/harry_potter_games)](https://repl.it/github/stoporinjail/harry_potter_games)
-# Install Python:
-- [Python](https://www.python.org/downloads/) (3.7)
+# Install pip (for api)
+```
+$ pip install requests --user
+```
 
 # Run the launcher file:
 ```
