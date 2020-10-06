@@ -13,11 +13,6 @@ $ git clone https://github.com/stoporinjail/harry_potter_games
 ```
 ```
 $ cd harry_potter_games
-```
-# Install pip (for api)
-```
-$ pip install requests 
-```
 
 # Run the launcher file:
 ```
