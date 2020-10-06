@@ -13,9 +13,8 @@ $ git clone https://github.com/stoporinjail/harry_potter_games
 ```
 ```
 $ cd harry_potter_games
-
-# Run the launcher file:
 ```
+# Run the launcher file:
 $ python launcher.py
 ```
 You may reach me on my Discord: [Harry Potter Games server](https://discord.gg/BdpNrDa)

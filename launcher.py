@@ -1,13 +1,13 @@
-import time
-import os
-print('Muggle madness will be beginning soon')
-
-try:
-  # Make sure the whole repo is cloned
-  os.system('python muggle_madness.py')
-except:
-  # If not all
-  print('Please clone the whole repo from github.')
-  os.system('git clone https://github.com/stoporinjail/harry_potter_games')
-  
-
+import muggle_madness
+import sorting
+import story
+import hoot
+import story2
+import Diagon_Alley
+import harry_potter_characters_dictionary
+import harry_potter_quiz
+import Hogwarts_game
+import Hogwarts_Tour
+import Eye_Color_Test
+import Patronus_Test
+print("That's the end!")
