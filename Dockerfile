@@ -1,4 +1,6 @@
 FROM python:3
-ADD launcher.py
+MAINTAINER stoporinjail
 RUN pip install requests
-CMD [ "python", "launcher.py" ]
+ADD launcher.py
+CMD ["python launcher.py"]
+ENTRYPOINT ["python"]
