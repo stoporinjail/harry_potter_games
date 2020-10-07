@@ -1,6 +1,9 @@
-FROM python:3
-MAINTAINER stoporinjail
-RUN pip install requests
-ADD launcher.py
-CMD ["python", "launcher.py"]
-ENTRYPOINT ["python"]
+FROM python:3.8
+
+
+
+# Install app dependencies
+RUN "pip install requests"
+
+
+CMD [ "python", "launcher.py" ]
