@@ -1,13 +1,13 @@
-import muggle_madness
-import sorting
-import story
-import hoot
-import story2
-import Diagon_Alley
-import harry_potter_characters_dictionary
-import harry_potter_quiz
-import Hogwarts_game
-import Hogwarts_Tour
-import Eye_Color_Test
-import Patronus_Test
+import muggle_madness.py
+import sorting.py
+import story.py
+import hoot.py
+import story2.py
+import Diagon_Alley.py
+import harry_potter_characters_dictionary.py
+import harry_potter_quiz.py
+import Hogwarts_game.py
+import Hogwarts_Tour.py
+import Patronus_Test.py
+import Eye_Color_Test.py
 print("That's the end!")
